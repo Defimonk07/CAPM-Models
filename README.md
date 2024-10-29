@@ -1,4 +1,4 @@
-CAPM Model
+**CAPM Model
 A simple implementation of the Capital Asset Pricing Model (CAPM) to estimate the expected return of an asset based on its sensitivity to market risk.
 
 Features
